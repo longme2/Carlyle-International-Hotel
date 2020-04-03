@@ -1,0 +1,8 @@
+jdk：1.8 
+服务器：tomcat 8.5
+Struts2 ：2.3
+Hibernate：5.0
+
+数据库：MySQL 5.7
+账号：root
+密码：123456

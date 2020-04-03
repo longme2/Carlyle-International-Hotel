@@ -1,0 +1,9 @@
+INSERT INTO `admin_table` (`account`, `password`, `jurisdiction`) VALUES (0, NULL, NULL);
+INSERT INTO `admin_table` (`account`, `password`, `jurisdiction`) VALUES (123456789, 'abcdefg', '管理员');
+INSERT INTO `admin_table` (`account`, `password`, `jurisdiction`) VALUES (147258369, 'abcdefg', '管理员');
+INSERT INTO `admin_table` (`account`, `password`, `jurisdiction`) VALUES (544483563, 'egrhrfdf', '前台人员');
+INSERT INTO `admin_table` (`account`, `password`, `jurisdiction`) VALUES (548434468, 'efjkrfjfj', '前台人员');
+INSERT INTO `admin_table` (`account`, `password`, `jurisdiction`) VALUES (555666565, 'dfkjfhjhffjk', '前台人员');
+INSERT INTO `admin_table` (`account`, `password`, `jurisdiction`) VALUES (687346689, 'ertgertr', '前台人员');
+INSERT INTO `admin_table` (`account`, `password`, `jurisdiction`) VALUES (741852963, 'abcdefg', '前台人员');
+INSERT INTO `admin_table` (`account`, `password`, `jurisdiction`) VALUES (999888777, 'abcdefg', '超级管理员');
